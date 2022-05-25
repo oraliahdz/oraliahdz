@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oralia Hernandez</h1>
-I'm a HR professional turned into a programer. 
+I'm a HR professional turned into a  programmer. 
 I recently completed a FullStack bootcamp LauchX and participated on "Hack the Ocean" hackathon by InnovaccionVirtual.    
 
 
