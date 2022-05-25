@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oralia Hernandez</h1>
-I'm a HR profesional turned into a programer. 
-I recently completed a FullStack bootcamp and was participated on "Hack the Ocean" hackathon.
+I'm a HR professional turned into a programer. 
+I recently completed a FullStack bootcamp LauchX and participated on "Hack the Ocean" hackathon by InnovaccionVirtual.    
 
 
-
-<br>
+<br><br>
 🌱 I’m currently learning Artificial Intelligence
 <br><br>
 
